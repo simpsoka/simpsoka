@@ -1,1 +1,3 @@
 ![](https://github.com/simpsoka/simpsoka/blob/master/simpsoka.png?raw=true)
+
+Hi! My name is Kathy. I’m from Alaska, and I’m a product manager in San Francisco. I believe all great products are a result of effort that starts with a conversation. I've taken [products](#shipped) from early prototypes to launch day consistently for the past 10 years. Through my successes (and failures) I've developed a [philosophy](/philosophy) about the path we take to make products that shine. My process thrives on the delicate dance between data driven design, business goals, and user feedback. I've worked with a lot of [great people](#recs) through the years. Now I work at GitHub, and we build tools to help people build apps. [Say hi](/contact) 👍😎.
